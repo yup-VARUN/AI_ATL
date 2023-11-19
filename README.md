@@ -4,7 +4,7 @@ Project for AI Atlanta Hackathon.
 
 This Python script utilizes various libraries to interact with OpenAI's API for both speech-to-text (STT) and text-to-speech (TTS) functionalities. Additionally, it includes features for saving speech as an audio file, triggering audio recordings based on a specified word, and playing audio files.
 
-Dependencies
+## Dependencies
 
 Ensure you have the following Python libraries installed:
 
