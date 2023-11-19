@@ -1,0 +1,9 @@
+requests
+pygame
+os
+speech_recognition
+pydub
+os
+PyPDF2
+openai
+langchain
