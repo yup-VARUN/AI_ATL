@@ -6,7 +6,7 @@ from pydub import AudioSegment
 import langchain_implementation
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = <your-key>
 
 def stt(file):
     # Define the API endpoint
